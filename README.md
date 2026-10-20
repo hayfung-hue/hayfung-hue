@@ -1,11 +1,7 @@
 # haifeng zhang（张海峰）
 
-**Real2Sim | Sim2Real | VLA | WAM**
-
-I focus on the connection between the real world, simulation, and embodied AI.
-My interests span building simulation environments from real-world observations,
-transferring learned capabilities back to the real world, and exploring models
-that connect perception, language, world dynamics, and action.
+I am a second-year Ph.D. student in Architecture at **Tongji University**.
+My research focuses on **world models**, **Real2Sim**, and **Sim2Real**.
 
 ## Focus
 
